@@ -7,7 +7,7 @@ Highly skilled and motivated professional with over 10 years of experience in th
 ## Professional Development
 - Leader of the Research Triangle PowerShell User Group
 - Volunteer at PowerShell.org
-- Author/Editor of the PowerShell Conference Book, Vol. 3
+- Author/Editor of the PowerShell Conference Book, Vol. 3 and Modern IT Automation with PowerShell
 - Speaker at PowerShell User Groups and Conferences, such as the PowerShell Summit and All Things Open at MetLife
 
 ## Professional Experience
@@ -50,7 +50,7 @@ Virtualization Engineer (Jul 2015 - Jul 2018)
 - Migrated over 250 applications and desktops to Server 2012R2 from Server 2008
 - Led the global data center consolidation project, migrating Citrix farms to the US datacenter
 
-### CrREDIT SUISSE, 3 Years - Raleigh, NC
+### CREDIT SUISSE, 3 Years - Raleigh, NC
 Desktop Engineer (Mar 2012 - Jul 2015)
 - Member of the Desktop Engineering team, responsible for upgrading the Desktop Environment to Windows 7
 - Significant development on custom Outlook encryption add-in using C#
