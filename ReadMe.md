@@ -1,5 +1,7 @@
 # Kevin Laux
-Professional Development Leader | Engineering Manager | Automation Expert
+[rsrychro@gmail.com]
+
+Orchestration Platform Manager | DevOps Champion | Engineering Manager
 
 ## Summary
 Highly skilled and motivated professional with over 10 years of experience in the technology industry, particularly in orchestration and automation platforms. Demonstrated experience leading teams and driving technical initiatives in a dynamic and fast-paced environment. A true team player who is dedicated to fostering an environment of learning and personal growth for team members. 
