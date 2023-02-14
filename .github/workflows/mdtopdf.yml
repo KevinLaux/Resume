@@ -1,0 +1,24 @@
+name: Convert Markdown to PDF
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      
+    - name: Pandoc generator
+      uses: Lothindir/pandoc-markdown-action@v0.4
+      with:
+      # Source markdown file
+      markdown: resume.md
+      # Output pdf file name
+      pdf: resume.pdf
+      # Choice of template(s) for listings and/or code highlights
+      template: # optional, default is none 
