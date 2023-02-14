@@ -16,9 +16,6 @@ jobs:
     - name: Pandoc generator
       uses: Lothindir/pandoc-markdown-action@v0.4
       with:
-      # Source markdown file
-      markdown: resume.md
-      # Output pdf file name
-      pdf: resume.pdf
-      # Choice of template(s) for listings and/or code highlights
-      template: # optional, default is none 
+        markdown: resume.md
+        pdf: resume.pdf
+        template: # optional, default is none 
